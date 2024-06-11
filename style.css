@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #e0f7fa;
+    font-family: Arial, sans-serif;
+}
+
+#game {
+    background-color: #fff;
+    border: 2px solid #000;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+}
+
+#stats {
+    margin-bottom: 20px;
+}
+
+#actions button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
